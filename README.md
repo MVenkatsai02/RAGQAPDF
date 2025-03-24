@@ -30,7 +30,7 @@ conversational-rag/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/conversational-rag.git
+git clone https://github.com/MVenkatsai02/RAGQAPDF-
 cd conversational-rag
 ```
 
